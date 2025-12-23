@@ -1,0 +1,5 @@
+{
+  "name": "Grant Genie AI",
+  "description": "A hyper-local grant and scholarship search engine that filters out loans and prioritizes non-repayable gift aid using Gemini AI.",
+  "requestFramePermissions": []
+}
